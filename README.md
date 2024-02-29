@@ -37,15 +37,18 @@
   
 #### INSTALLATION 
   - Python :snake:
-  - OS
-  - pandas
-  - json
-  - numpy
-  - langchain
-  - langchain
+  - ![image](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/cf3ef0c3-5ad5-4541-9682-87a6d50d589c)
+  - ![image](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/058d78b1-7449-4260-8ecc-daedf934d474)
+  -  ![image](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/c43897a8-17b5-4ac0-83fa-06a6a619e8df)
+  -  ![image](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/470f0e81-7cd0-4287-9b01-945cbef3d1a0)
+  - langchain 
   - chatgpt
   - Tableau 
   - Machine Learning
+  - ![image](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/ed335e56-ed86-4fda-82b5-85ff10276cd6)
+  - ![image](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/5ad9a288-b4f9-4a45-a5ca-ae159bcd29fd)
+
+
 
 ####  DOCUMENTATION
 
