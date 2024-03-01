@@ -59,7 +59,21 @@ Data was acquired as a dataset from the team at Brightside Management. This can 
 
 #### DEVELOPMENT 
 
-*Cleaning Data*
+*Data Retrieval & Transformation*
+- Install add dependencies (langchain, numpy, panda, OS)
+- import dataset (dataset1_lawyers.csv)
+- Set up the Openai Set up with API key
+- Crafting the prompt to instruct the LLM model to perform specific desired tasks
+- Creating a chain for passing a list of Documents to a model
+- Code block for the Langchain setup
+- Looping through the dataframe to access the websites, load text from them, retrieve required data via LLM
+- Store and Convert the list of responses to a DataFrame
+- Tranform data by concation
+- Filter Dataframe and convert to a dictionary
+- Now modifying the above dataframe to have only those rows whose values are NOT zero
+- Concatenate the DataFrames vertically (along rows)
+- Making a copy of the result_df for the first chunk of data obtained; Deep copy
+
 
 
 *Visualization-Analysis*
@@ -68,11 +82,17 @@ Data was acquired as a dataset from the team at Brightside Management. This can 
   
 
 
-*Interactive Meteor Map*
+*Machine Learning Configuration*
+![image](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/2cdf3631-a691-4d16-b27d-47639c448e2a)
 
+
+
+*Lead Score Prediction Model*
+![Dashboard Lead Score Prediction Model](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/fb601f7c-a03d-4841-af45-9a3de532c3b3)
 
   
 #### REFERENCES
+- https://www.statista.com/topics/6737/research-and-development-worldwide/#topicOverview
 
 #### LICENSES
 
