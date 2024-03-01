@@ -17,7 +17,7 @@
 
 [REFERENCES](#references)  
 
-[LICENSES](#licenses)
+[CONCLUSIONS](#conclusions)
 
 
 
@@ -73,6 +73,7 @@ Data was acquired as a dataset from the team at Brightside Management. This can 
 - Now modifying the above dataframe to have only those rows whose values are NOT zero
 - Concatenate the DataFrames vertically (along rows)
 - Making a copy of the result_df for the first chunk of data obtained; Deep copy
+- The rest of data was cleaned and redefined into lawfirmdata_cleaned_100.csv
 
 
 
@@ -88,11 +89,35 @@ Data was acquired as a dataset from the team at Brightside Management. This can 
 
 
 *Lead Score Prediction Model*
+- This file obtains a compiled and pre-processed dataset of records containing various types of information about Law Firms from across 48 States of USA.
+- Import dependecies (Sci-kit,tensorflow, matplotlib, pandas)
+- Prepare data for ML model by definning path
+- Dropping the non-beneficial columns
+- Assign scores based upon Lead Score Matrix
+- Creating the score as the target variable column
+- split our preprocessed data into our features and target arrays
+- Separating the y variable, the labels
+- Splitting the preprocessed data into a training and testing dataset
+- Creating a StandardScaler instances and scaling data
+- Looking at the training and test data sizes
+- Compile, Train and Evaluating the Model
+- Calculating the confusion matrix
+- Calculating the accuracy score
+- Utilizing the Random Forests (sklearn) module to calculate feature importance
+- Sorting and Visualizing the features by importance
+
+![image](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/75a622af-2c33-480e-9e03-94ef6200fd4b)
+
+
+
 ![Dashboard Lead Score Prediction Model](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/fb601f7c-a03d-4841-af45-9a3de532c3b3)
+
+#### CONCLUSIONS
+Using the power of machine language, our project has successfully created a framework that possesses the ability to scrap data on legal firms and the services they provide for our clients. Using data presented by team, we’ve constructed a model that also predicts lead scores on these firms. By using our platform clients are guaranteed to have the most efficient experience and their needs attended to.
+
 
   
 #### REFERENCES
 - https://www.statista.com/topics/6737/research-and-development-worldwide/#topicOverview
 
-#### LICENSES
 
