@@ -118,7 +118,8 @@ Data was acquired as a dataset from the team at Brightside Management. This can 
 
 
 - Feature Importance:
-![image](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/75a622af-2c33-480e-9e03-94ef6200fd4b)
+![Market Analysis   Lead Score Prediction (1)](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/5de3c055-e82e-440b-9421-1d3c7f3c1ece)
+
 
 - Model Analysis:
 ![vis6](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/d037507f-c9f1-4896-9c4e-674e5dd6c298)
