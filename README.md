@@ -128,7 +128,7 @@ Data was acquired as a dataset from the team at Brightside Management. This can 
 
 
 
-#### CONCLUSIONS
+####   CONCLUSIONS
 Using the power of machine language, our project has successfully created a framework that possesses the ability to scrap data on legal firms and the services they provide for our clients. Using data presented by team, we’ve constructed a model that also predicts lead scores on these firms. By using our platform clients are guaranteed to have the most efficient experience and their needs attended to.
 
 
