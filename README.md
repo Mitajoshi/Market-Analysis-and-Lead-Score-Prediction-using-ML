@@ -5,7 +5,7 @@
 https://public.tableau.com/views/DatamindsEnsemblePresentationdraft3/MarketAnalysisLeadScorePrediction?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 
-**PROJECT TITLE:**  BRIGHTRETURN: A PRACTICE MANAGEMENT SOFTWARE
+**PROJECT TITLE:**  Market Analysis & Lead Score Prediction
 
 [PROJECT DESCRIPTION](#project-description)  
 
