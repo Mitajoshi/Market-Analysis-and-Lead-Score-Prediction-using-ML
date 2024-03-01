@@ -59,7 +59,7 @@ Data was acquired as a dataset from the team at Brightside Management. This can 
 
 #### DEVELOPMENT 
 
-*Data Retrieval & Transformation*
+1. *Data Retrieval & Transformation*
 - Install add dependencies (langchain, numpy, panda, OS)
 - import dataset (dataset1_lawyers.csv)
 - Set up the Openai Set up with API key
@@ -77,18 +77,15 @@ Data was acquired as a dataset from the team at Brightside Management. This can 
 
 
 
-*Visualization-Analysis*
+2. *Visualization-Analysis*
+- Market Analysis & Lead Score Prediction
+![vis1](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/8bb014a3-988b-41e7-b431-d66b61533d42)
+
+- Law Firm Pratice Areas
+![vis2](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/8c5f7ea0-2d1e-4111-9bae-11f5131cac19)
 
 
-  
-
-
-*Machine Learning Configuration*
-![image](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/2cdf3631-a691-4d16-b27d-47639c448e2a)
-
-
-
-*Lead Score Prediction Model*
+3. *Lead Score Prediction Model*
 - This file obtains a compiled and pre-processed dataset of records containing various types of information about Law Firms from across 48 States of USA.
 - Import dependecies (Sci-kit,tensorflow, matplotlib, pandas)
 - Prepare data for ML model by definning path
@@ -105,12 +102,30 @@ Data was acquired as a dataset from the team at Brightside Management. This can 
 - Calculating the accuracy score
 - Utilizing the Random Forests (sklearn) module to calculate feature importance
 - Sorting and Visualizing the features by importance
+  
+- Machine Learning Configurations:
+![image](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/cc57b5d7-40b2-4866-b8b0-f08da0996424)
 
+- Lead Score Prediction Moel:
+![vis5](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/93bc964a-9257-44f5-bd97-a3c486ed5f74)
+
+- Confusion Matrix: 
+![vis4](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/92aaeff8-5e2a-4960-83cc-f602775edc30)
+
+
+- Classification Report:
+![vis3](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/b2615bed-5c74-400b-bd1f-1ed4015b285d)
+
+
+- Feature Importance:
 ![image](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/75a622af-2c33-480e-9e03-94ef6200fd4b)
 
+- Model Analysis:
+![vis6](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/d037507f-c9f1-4896-9c4e-674e5dd6c298)
 
 
-![Dashboard Lead Score Prediction Model](https://github.com/Mitajoshi/Market-Analysis-and-Lead-Score-Prediction-using-ML/assets/72319764/fb601f7c-a03d-4841-af45-9a3de532c3b3)
+
+
 
 #### CONCLUSIONS
 Using the power of machine language, our project has successfully created a framework that possesses the ability to scrap data on legal firms and the services they provide for our clients. Using data presented by team, we’ve constructed a model that also predicts lead scores on these firms. By using our platform clients are guaranteed to have the most efficient experience and their needs attended to.
