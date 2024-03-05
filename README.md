@@ -56,7 +56,7 @@
 
 *Data source:*
 
-Data was acquired as a dataset from the team at Brightside Management. This can be found in the /resource part of this repository.
+Data was acquired as a dataset from the team at BrightReturn Management. This can be found in the /resource part of this repository.
 
 
 #### DEVELOPMENT 
