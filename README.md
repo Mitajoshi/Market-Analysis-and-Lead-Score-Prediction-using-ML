@@ -28,7 +28,7 @@
 
  This projects focuses on the practice management software that acts as a toolkit in providing client interface for law and account firms on a single platform. Looking to expand into the US market, a novel company is willing to perform market research and analysis for this purpose. By utilizing 500 data records, the aim of this project is to provide a detailed analysis framework in scraping website data for compilation of law and accounting firms, along with their corresponding services and fees. Additionally, the framework will include a model to predict lead scores for a given query based on the clients demands. These lead scores will indicate how likely it is that a client will benefit from the product.
 
-*Research questions to ask:*
+
 
 #### CONTRIBUTORS
 - Anita Kumar Github Link: https://github.com/Ani2587
